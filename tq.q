@@ -1,3 +1,4 @@
+/Adding third comment
 /Adding second comment
 /Adding first comment
 /2022.01.06 changing quote::Bid_Price from real to float
